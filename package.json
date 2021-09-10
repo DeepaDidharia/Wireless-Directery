@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "expo-barcode-scanner": "^10.2.2",
+    "expo-permissions": "^12.1.1",
+    "react-native-gesture-handler": "^1.10.3",
+    "react-native-reanimated": "^2.2.0",
+    "react-native-screen": "^1.0.1",
+    "react-navigation": "^4.4.4",
+    "react-navigation-tabs": "^2.11.1"
+  }
+}
